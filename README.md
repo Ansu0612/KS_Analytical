@@ -17,6 +17,15 @@ Drivers: High returns from South region, Home Office customers, and Furniture & 
 
 Profit Impact: 106K in returns (~7% of sales) cutting into profit.
 
+## 📸 Dashboard Snapshots  
+
+### Page 1 – KPIs & Employee Insights  
+![Dashboard Page 1](https://github.com/Ansu0612/KS_Analytical/blob/main/Screenshot%202025-09-16%20203154.png)  
+
+### Page 2 – Returns by Category & Region  
+![Dashboard Page 2](dashboard_page2.png)  
+
+
 ### Recommendations
 
 Audit Furniture & Technology quality and suppliers.
