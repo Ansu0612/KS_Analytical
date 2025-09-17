@@ -34,4 +34,4 @@ Review Home Office customer needs.
 Support employees like Anna with product/customer insights.
 
 ### Page 2 – Returns by Category & Region  
-![Dashboard Page 2]([dashboard_page2.png](https://github.com/Ansu0612/KS_Analytical/blob/main/Screenshot%202025-09-16%20203208.png))  
+![Dashboard Page 2](https://github.com/Ansu0612/KS_Analytical/blob/main/Screenshot%202025-09-16%20203208.png)  
